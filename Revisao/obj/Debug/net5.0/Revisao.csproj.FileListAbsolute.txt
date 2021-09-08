@@ -1,0 +1,16 @@
+/home/isa/Área de Trabalho/ProgFacd/Bootcamp-DecolaTech/Revisao/obj/Debug/net5.0/Revisao.csproj.AssemblyReference.cache
+/home/isa/Área de Trabalho/ProgFacd/Bootcamp-DecolaTech/Revisao/obj/Debug/net5.0/Revisao.GeneratedMSBuildEditorConfig.editorconfig
+/home/isa/Área de Trabalho/ProgFacd/Bootcamp-DecolaTech/Revisao/obj/Debug/net5.0/Revisao.AssemblyInfoInputs.cache
+/home/isa/Área de Trabalho/ProgFacd/Bootcamp-DecolaTech/Revisao/obj/Debug/net5.0/Revisao.AssemblyInfo.cs
+/home/isa/Área de Trabalho/ProgFacd/Bootcamp-DecolaTech/Revisao/obj/Debug/net5.0/Revisao.csproj.CoreCompileInputs.cache
+/home/isa/Área de Trabalho/ProgFacd/Bootcamp-DecolaTech/Revisao/bin/Debug/net5.0/Revisao
+/home/isa/Área de Trabalho/ProgFacd/Bootcamp-DecolaTech/Revisao/bin/Debug/net5.0/Revisao.deps.json
+/home/isa/Área de Trabalho/ProgFacd/Bootcamp-DecolaTech/Revisao/bin/Debug/net5.0/Revisao.runtimeconfig.json
+/home/isa/Área de Trabalho/ProgFacd/Bootcamp-DecolaTech/Revisao/bin/Debug/net5.0/Revisao.runtimeconfig.dev.json
+/home/isa/Área de Trabalho/ProgFacd/Bootcamp-DecolaTech/Revisao/bin/Debug/net5.0/Revisao.dll
+/home/isa/Área de Trabalho/ProgFacd/Bootcamp-DecolaTech/Revisao/bin/Debug/net5.0/ref/Revisao.dll
+/home/isa/Área de Trabalho/ProgFacd/Bootcamp-DecolaTech/Revisao/bin/Debug/net5.0/Revisao.pdb
+/home/isa/Área de Trabalho/ProgFacd/Bootcamp-DecolaTech/Revisao/obj/Debug/net5.0/Revisao.dll
+/home/isa/Área de Trabalho/ProgFacd/Bootcamp-DecolaTech/Revisao/obj/Debug/net5.0/ref/Revisao.dll
+/home/isa/Área de Trabalho/ProgFacd/Bootcamp-DecolaTech/Revisao/obj/Debug/net5.0/Revisao.pdb
+/home/isa/Área de Trabalho/ProgFacd/Bootcamp-DecolaTech/Revisao/obj/Debug/net5.0/Revisao.genruntimeconfig.cache
