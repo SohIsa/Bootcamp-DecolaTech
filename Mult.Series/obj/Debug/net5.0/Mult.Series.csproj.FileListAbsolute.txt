@@ -1,0 +1,5 @@
+/home/isa/Área de Trabalho/ProgFacd/Bootcamp-DecolaTech/Mult.Series/obj/Debug/net5.0/Mult.Series.csproj.AssemblyReference.cache
+/home/isa/Área de Trabalho/ProgFacd/Bootcamp-DecolaTech/Mult.Series/obj/Debug/net5.0/Mult.Series.GeneratedMSBuildEditorConfig.editorconfig
+/home/isa/Área de Trabalho/ProgFacd/Bootcamp-DecolaTech/Mult.Series/obj/Debug/net5.0/Mult.Series.AssemblyInfoInputs.cache
+/home/isa/Área de Trabalho/ProgFacd/Bootcamp-DecolaTech/Mult.Series/obj/Debug/net5.0/Mult.Series.AssemblyInfo.cs
+/home/isa/Área de Trabalho/ProgFacd/Bootcamp-DecolaTech/Mult.Series/obj/Debug/net5.0/Mult.Series.csproj.CoreCompileInputs.cache
