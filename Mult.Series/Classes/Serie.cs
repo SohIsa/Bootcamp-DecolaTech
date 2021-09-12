@@ -1,3 +1,5 @@
+using System;
+
 namespace Mult.Series
 {
     public class Serie : EntidadeBase
